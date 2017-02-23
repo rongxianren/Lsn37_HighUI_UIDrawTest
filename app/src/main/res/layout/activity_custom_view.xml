@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.rongxianren.lsn37_highui_uidrawtest.custom_view.CustomView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_custom_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rongxianren.lsn37_highui_uidrawtest.custom_view.CustomViewActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="AAAAAAAA" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="BBBBBBBB" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="CCCCCCC" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="DDDDDDDDDDDDD" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="EEEEE" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="FFFFFFFFFFFF" />
+</com.rongxianren.lsn37_highui_uidrawtest.custom_view.CustomView>
